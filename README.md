@@ -55,13 +55,14 @@ The objective of this project is to identify which stocks are the most and least
                 a)	RSI below 45 indicates an oversold market and a sign of potential buying opportunity because the stock or asset 
                     may be undervalued or oversold and there the probability is higher that price can bounce back. (The oversold market
                     has fallen sharply and is expected to bounce higher) and RSI moves towards 80 it indicates overbought 
-                    conditions. (The overbought market has risen sharply and is possibly ripe for a decline). Whenever the RSI value is between 
-                    45 and 68 are often considered a neutral zone, suggesting stability in the price movements. Whenever the RSI value 
-                    is greater than or equal to 69 indicates an overbought condition and a sign of a potentially strong selling opportunity.
+                    conditions. (The overbought market has risen sharply and is possibly ripe for a decline). Whenever the RSI value is 
+                    between 45 and 68 is often considered a neutral zone, suggesting stability in the price movements. Whenever the RSI 
+                    value is greater than or equal to 69 indicates an overbought condition and a sign of a potentially strong selling 
+                    opportunity.
                 
                 b)	When the MACD value is greater than 0, it means that the stock’s short–term trend is bullish and this can be seen 
-                    as a potential buying signal and when the MACD value is less than 0 indicates that stock's short-term trend is bearish 
-                    and it can be seen as a Potential selling signal or shortening signal.
+                    as a potential buying signal and when the MACD value is less than 0 indicates that the stock's short-term trend is 
+                    bearish and it can be seen as a Potential selling signal or shortening signal.
 
      
 ---
@@ -77,17 +78,22 @@ The objective of this project is to identify which stocks are the most and least
      8. Volume: The number of shares traded on that date.
      9. Adjusted Close: The closing price is adjusted for dividends and stock splits.
      10. Dividend Amount: The dividend amount paid on that date.
-    11. Stock Split: A factor by which the stock was split on that date (usually 1 if no split occurred).
+    11. Stock Split: A factor by which the stock was split on that date (usually 1 if 
+        no split occurred).
     12. Moving Average (10 days): The 10-day moving average of the stock price.
     13. RSI (14 days): The 14-day Relative Strength Index, a momentum oscillator.
-    14. MACD: The Moving Average Convergence Divergence, a trend-following momentum indicator.
-    15. Bollinger Bands (Upper): The upper Bollinger band, indicates the level above which the stock is considered overbought.
-    16. Bollinger Bands (Lower): The lower Bollinger band, indicates the level below which the stock is considered oversold.
+    14. MACD: The Moving Average Convergence Divergence, a trend-following momentum 
+        indicator.
+    15. Bollinger Bands (Upper): The upper Bollinger band, indicates the level above 
+        which the stock is considered overbought.
+    16. Bollinger Bands (Lower): The lower Bollinger band, indicates the level below 
+        which the stock is considered oversold.
     17. 52-Week High: The highest stock price in the last 52 weeks.
     18. 52-Week Low: The lowest stock price in the last 52 weeks.
     19. Beta: A measure of the stock's volatility in the market.
     20. Market Cap: The total market capitalization of the company.
-    21. PE Ratio: The price-to-earnings ratio, a measure of the price paid for a share relative to the earnings of the company.
+    21. PE Ratio: The price-to-earnings ratio, a measure of the price paid for a share 
+        relative to the earnings of the company.
 
 ---
 ## 🏆 Key Findings
