@@ -66,6 +66,30 @@ The objective of this project is to identify which stocks are the most and least
      
 ---
 
+# Columns description:
+     1. Date: The date of the stock data entry.
+     2. Year: The years of the data entry.
+     3. Ticker: The stock ticker or symbol.
+     4. Open: The opening price of the stock on that date.
+     5. High: The highest price of the stock on that date.
+     6. Low: The lowest price of the stock on that date.
+     7. Close: The closing price of the stock on that date.
+     8. Volume: The number of shares traded on that date.
+     9. Adjusted Close: The closing price is adjusted for dividends and stock splits.
+     10. Dividend Amount: The dividend amount paid on that date.
+    11. Stock Split: A factor by which the stock was split on that date (usually 1 if no split occurred).
+    12. Moving Average (10 days): The 10-day moving average of the stock price.
+    13. RSI (14 days): The 14-day Relative Strength Index, a momentum oscillator.
+    14. MACD: The Moving Average Convergence Divergence, a trend-following momentum indicator.
+    15. Bollinger Bands (Upper): The upper Bollinger band, indicates the level above which the stock is considered overbought.
+    16. Bollinger Bands (Lower): The lower Bollinger band, indicates the level below which the stock is considered oversold.
+    17. 52-Week High: The highest stock price in the last 52 weeks.
+    18. 52-Week Low: The lowest stock price in the last 52 weeks.
+    19. Beta: A measure of the stock's volatility in the market.
+    20. Market Cap: The total market capitalization of the company.
+    21. PE Ratio: The price-to-earnings ratio, a measure of the price paid for a share relative to the earnings of the company.
+
+---
 ## 🏆 Key Findings
 
 ### **Most Attractive Stock**
