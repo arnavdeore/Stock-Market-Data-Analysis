@@ -20,7 +20,7 @@ The objective of this project is to identify which stocks are the most and least
 - **PE Ratio**: Price-to-Earnings ratio, used to identify undervalued or overvalued stocks.
 - **Dividend Amount**: Total dividends paid, crucial for income-focused investors.
 
-## The KPI's to be found for analysis:
+## ⁉️ The KPI's to be found for analysis:
   1. Average Daily Trading Volume: The average number of shares traded daily. High Trading volume indicates that a stock market is 
        highly liquid. Liquidity refers to the ease with which assets can be bought or sold without significantly affecting prices.
        
@@ -68,7 +68,7 @@ The objective of this project is to identify which stocks are the most and least
      
 ---
 
-# Columns description:
+# 📑Columns description:
      1. Date: The date of the stock data entry.
      2. Year: The years of the data entry.
      3. Ticker: The stock ticker or symbol.
