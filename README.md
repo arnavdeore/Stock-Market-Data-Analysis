@@ -22,7 +22,7 @@ The objective of this project is to identify which stocks are the most and least
 
 ## The KPI's to be found for analysis:
     1. Average Daily Trading Volume: The average number of shares traded daily. High Trading volume indicates that a stock market is 
-       highly liquid. Liquidity refers to the ease with which assets can be bought or sold without significantly affecting their prices.
+       highly liquid. Liquidity refers to the ease with which assets can be bought or sold without significantly affecting prices.
        
     2. Most Volatile Stocks: Stocks with the highest Beta values. Stocks with the highest beta values typically indicate that they are 
        more volatile and have higher price sensitivity to market movements compared to the overall market index.
