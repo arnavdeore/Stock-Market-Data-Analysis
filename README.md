@@ -124,7 +124,7 @@ The objective of this project is to identify which stocks are the most and least
 ## 🔍 Analysis Steps
 
 1. **Data Collection**: Loaded stock market data from the synthetic dataset.
-2. **Data Processing**: Summarized key metrics (Beta, PE Ratio, Dividend Amount) for each stock.
+2. **Data Processing**: Summarized key metrics (Beta, PE Ratio, Dividend Amount).
 3. **Evaluation**: Identified the most and least attractive stocks based on the summarized metrics.
 
 ---
