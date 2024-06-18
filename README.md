@@ -68,7 +68,7 @@ The objective of this project is to identify which stocks are the most and least
      
 ---
 
-# 📑Columns description:
+# 📑Columns Description:
      1. Date: The date of the stock data entry.
      2. Year: The years of the data entry.
      3. Ticker: The stock ticker or symbol.
@@ -93,8 +93,8 @@ The objective of this project is to identify which stocks are the most and least
     18. 52-Week Low: The lowest stock price in the last 52 weeks.
     19. Beta: A measure of the stock's volatility in the market.
     20. Market Cap: The total market capitalization of the company.
-    21. PE Ratio: The price-to-earnings ratio, a measure of the price paid for a share 
-        relative to the earnings of the company.
+    21. PE Ratio: The price-to-earnings ratio measures the price paid for a share 
+        relative to the company's earnings.
 
 ---
 ## 🏆 Key Findings
@@ -149,7 +149,7 @@ The following visualizations were created for a better understanding of the stoc
 ---
 
 
-This README file provides a comprehensive overview of your stock market analysis project, including the use of Tableau, Excel, Power BI, and MySQL.
+This README file provides a comprehensive overview of your stock market analysis project, including using Tableau, Excel, Power BI, and MySQL.
 
 
 
