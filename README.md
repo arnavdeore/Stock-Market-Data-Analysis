@@ -8,7 +8,7 @@ This project delves into stock market data to uncover the best and worst investm
 # 🔎 Business Objective
   The primary objective of this dataset is to provide insights into the stock market performance of the select major companies. 
   Through analysis, we aim to identify patterns, trends, and anomalies in the stock’s behavior over time. By doing so, we hope 
-  to make informed decisions regarding stock purchases, sales, or holdings, potentially.
+  to make informed decisions regarding stock purchases, sales, or holdings.
   
 ---
 
@@ -20,12 +20,12 @@ The objective of this project is to identify which stocks are the most and least
 - **PE Ratio**: Price-to-Earnings ratio, used to identify undervalued or overvalued stocks.
 - **Dividend Amount**: Total dividends paid, crucial for income-focused investors.
 
-## ⁉️ The KPI's to be found for analysis:
+## ⁉️ The KPIs to be found for analysis:
   1. Average Daily Trading Volume: The average number of shares traded daily. High Trading volume indicates that a stock market is 
        highly liquid. Liquidity refers to the ease with which assets can be bought or sold without significantly affecting prices.
        
   2. Most Volatile Stocks: Stocks with the highest Beta values. Stocks with the highest beta values typically indicate that they are 
-       more volatile and have higher price sensitivity to market movements compared to the overall market index.
+       more volatile and have higher price sensitivity to market movements than the overall market index.
        
   3. Stocks with Highest Dividend and Lowest Dividend: Stocks that have provided the highest dividend amounts and lowest amounts. 
        Stocks with low or no dividends are often associated with growth investing. Generally, companies reinvest their earnings to 
@@ -149,7 +149,7 @@ The following visualizations were created for a better understanding of the stoc
 ---
 
 
-This README file provides a comprehensive overview of your stock market analysis project, including using Tableau, Excel, Power BI, and MySQL.
+This README file provides a comprehensive overview of your stock market analysis project using Tableau, Excel, Power BI, and MySQL.
 
 
 
