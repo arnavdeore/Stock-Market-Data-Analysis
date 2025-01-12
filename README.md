@@ -27,7 +27,7 @@ The objective of this project is to identify which stocks are the most and least
   2. Most Volatile Stocks: Stocks with the highest Beta values. Stocks with the highest beta values typically indicate that they are 
        more volatile and have higher price sensitivity to market movements than the overall market index.
        
-  3. Stocks with Highest Dividend and Lowest Dividend: Stocks that have provided the highest dividend amounts and lowest amounts. 
+  3. Stocks with Highest Dividend and Lowest Dividend: Stocks that have provided the highest and lowest dividend amounts. 
        Stocks with low or no dividends are often associated with growth investing. Generally, companies reinvest their earnings to 
        fund expansion, research and development, and other growth initiatives rather than distributing them to shareholders. 
    
