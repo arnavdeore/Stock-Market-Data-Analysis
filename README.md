@@ -1,5 +1,6 @@
-# 💹 Stock Market Analysis Project
+<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*nw1HVdtB47MKZx9Z.gif" width="600"> </p>
 
+# 💹 Stock Market Analysis Project
 Welcome to the **Stock Market Analysis Project**! 
 This project delves into stock market data to uncover the best and worst investment options based on key financial metrics. 
 
